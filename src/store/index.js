@@ -39,12 +39,6 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "百度",
-          name: "baidu",
-          order: 5,
-          show: true,
-        },
-        {
           label: "少数派",
           name: "sspai",
           order: 6,
@@ -75,12 +69,6 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "稀土掘金",
-          name: "juejin",
-          order: 11,
-          show: false,
-        },
-        {
           label: "腾讯新闻",
           name: "qq-news",
           order: 12,
@@ -93,28 +81,10 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "原神",
-          name: "genshin",
-          order: 14,
-          show: false,
-        },
-        {
           label: "吾爱破解",
           name: "52pojie",
           order: 14,
           show: true,
-        },
-        {
-          label: "崩坏：星穹铁道",
-          name: "starrail",
-          order: 16,
-          show: false,
-        },
-        {
-          label: "LOL",
-          name: "lol",
-          order: 15,
-          show: false,
         },
         {
           label: "网易新闻",
@@ -135,21 +105,9 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "NGA",
-          name: "ngabbs",
-          order: 20,
-          show: false,
-        },
-        {
           label: "HelloGitHub",
           name: "hellogithub",
           order: 21,
-          show: true,
-        },
-        {
-          label: "简书",
-          name: "jianshu",
-          order: 22,
           show: true,
         },
         {
