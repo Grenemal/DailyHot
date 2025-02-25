@@ -99,6 +99,12 @@ export const mainStore = defineStore("mainData", {
           show: false,
         },
         {
+          label: "吾爱破解",
+          name: "52pojie",
+          order: 14,
+          show: true,
+        },
+        {
           label: "崩坏：星穹铁道",
           name: "starrail",
           order: 16,
