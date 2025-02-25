@@ -54,7 +54,7 @@ export const mainStore = defineStore("mainData", {
           label: "IT之家",
           name: "ithome",
           order: 7,
-          show: true,
+          show: false,
         },
         {
           label: "澎湃新闻",
@@ -78,13 +78,13 @@ export const mainStore = defineStore("mainData", {
           label: "稀土掘金",
           name: "juejin",
           order: 11,
-          show: true,
+          show: false,
         },
         {
           label: "腾讯新闻",
           name: "qq-news",
           order: 12,
-          show: true,
+          show: false,
         },
         {
           label: "豆瓣电影",
@@ -96,19 +96,19 @@ export const mainStore = defineStore("mainData", {
           label: "原神",
           name: "genshin",
           order: 14,
-          show: true,
+          show: false,
         },
         {
           label: "崩坏：星穹铁道",
           name: "starrail",
           order: 16,
-          show: true,
+          show: false,
         },
         {
           label: "LOL",
           name: "lol",
           order: 15,
-          show: true,
+          show: false,
         },
         {
           label: "网易新闻",
@@ -132,7 +132,7 @@ export const mainStore = defineStore("mainData", {
           label: "NGA",
           name: "ngabbs",
           order: 20,
-          show: true,
+          show: false,
         },
         {
           label: "HelloGitHub",
